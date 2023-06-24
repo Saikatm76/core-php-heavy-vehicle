@@ -1,0 +1,10 @@
+body{font-family: tahoma,geneva,sans-serif;color: red;background: url(https://static1.squarespace.com/static/5899e78b1b10e35238fba886/t/5c34437188251ba3e30d995a/1546929016385/vans+medium+duty+heavy+vehicle+trucks+-+credit+Mitsubishi-Fuso.jpg?format=750w);background-size: cover;}
+.signin{background: rgba(40,60,80,0.7);padding:40px;width:250px;margin: auto;margin-top: 80px;height: 450px;margin-left: 180px}
+form{width: 240px;text-align: center;}
+input{width: 240px;text-align: center;background: transparent;border: none;border-bottom: 2px solid #fff;font-family: 'play',sans-serif;font-size: 16px;font-weight: 200px;padding: 10px 0;transition: border 0.5s;outline: none;color: #fff;}
+input[type=button]{border: none;width: 90px;background: white;color:black;font-size: 16px;line-height: 25px;padding: 10px 0;border-radius: 16px;cursor: pointer;}
+input[type=button]:hover{color:yellow;background-color: black;}
+h2{color:white;}
+a{color:yellow;text-decoration: blink;}
+a:hover{color:skyblue;}
+::placeholder{color:aliceblue;opacity:0.8;}
